@@ -125,7 +125,7 @@ Once you have cloned the directory to your local machine, follow the directions 
  4. `os.system("say -v fred -r 150  --interactive=red Hello Siri. Hello World!!" )`
  
  
-    *This repeating command allows the 'say' command to keep running between different voices and phrases without interuption.*
+    *This repeating function allows the 'say' command to keep running between different voices and phrases without interuption.*
     
     
     *The voices of Samantha and Fred are used in this example. They address each other as Siri and Stephen Hawkins. This is done in tribute because both have had an enormous impact and influence on modern technology, specifically computerized speech synthesis!*
