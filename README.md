@@ -105,9 +105,9 @@ Once you have cloned the directory to your local machine, follow the directions 
   
 ---
   
-3. `os.system("say -v samantha -r 150 --interactive=red Hello Stephen. Hello World!!" )`
+3. `os.system("say -v samantha -r 150 --interactive=red Hello Stephen. Hello World!" )`
 
-   *This converts text `Hello Stephen` to audible speech and visual text using the 'say' comand. Modifiers listed below are being used*
+   *This converts text `Hello Stephen. Hello World!` to audible speech and visual text using the 'say' comand. Modifiers listed below are being used*
 
    *`-v` is used to change the voice*
     
