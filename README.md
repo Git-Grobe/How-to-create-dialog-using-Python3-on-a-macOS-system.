@@ -19,7 +19,7 @@ Project Summary
   * Project files can be downloaded from.<br/>
   [https://github.com/Git-Grobe/How-to-create-dialog-using-Python3-on-a-macOS-system.](https://github.com/Git-Grobe/How-to-create-dialog-using-Python3-on-a-macOS-system.)
   
-  * A project demonstration video can be found here on YouTube.<br/>
+  * A project demonstration video can be found on YouTube.<br/>
   [https://youtu.be/m5qfFgB5N0c](https://youtu.be/m5qfFgB5N0c)
   
 
