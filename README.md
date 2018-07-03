@@ -20,7 +20,7 @@ Project Summary
   [https://github.com/Git-Grobe/How-to-create-dialog-using-Python3-on-a-macOS-system.](https://github.com/Git-Grobe/How-to-create-dialog-using-Python3-on-a-macOS-system.)
   
   * A project demonstration video can be found on YouTube.<br/>
-  [https://youtu.be/m5qfFgB5N0c](https://youtu.be/m5qfFgB5N0c)
+  [https://www.youtube.com/watch?v=uVMpZzuOeGI](https://www.youtube.com/watch?v=uVMpZzuOeGI)
   
 
 <br/>
