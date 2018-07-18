@@ -12,7 +12,7 @@ Project Summary
   * This project is designed for creative writers/coders to experiment with different conversations, stories, text, and/or code.
 
   * Part 2 creative writing project files can be downloaded here.<br/>
-  [https://github.com/Git-Grobe/How-to-create-dialog-using-Python3-on-a-macOS-system-Part2-creative-writing](https://github.com/Git-Grobe/How-to-create-dialog-using-Python3-on-a-macOS-system-Part2-creative-writing)
+  [https://github.com/Git-Grobe/How-to-create-dialog-using-Python3-on-a-macOS-system./tree/master/2-creative-writing](https://github.com/Git-Grobe/How-to-create-dialog-using-Python3-on-a-macOS-system./tree/master/2-creative-writing)
   
   * A project demonstration video can be found on YouTube.<br/>
   [https://www.youtube.com/watch?v=g_h0KJbVdUc](https://www.youtube.com/watch?v=g_h0KJbVdUc)
