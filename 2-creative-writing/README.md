@@ -6,7 +6,7 @@ Project Summary
 
  This project will build on the previous projects "helloworld.py" file to create a more involved conversation. 
   previous project link here:
-  (( [https://github.com/Git-Grobe/How-to-create-dialog-using-Python3-on-a-macOS-system.](https://github.com/Git-Grobe/How-to-create-dialog-using-Python3-on-a-macOS-system.) )) 
+  (( [https://github.com/Git-Grobe/How-to-create-dialog-using-Python3-on-a-macOS-system./tree/master/1-hello-world](https://github.com/Git-Grobe/How-to-create-dialog-using-Python3-on-a-macOS-system./tree/master/1-hello-world) )) 
   
   
   * This project is designed for creative writers/coders to experiment with different conversations, stories, text, and/or code.
